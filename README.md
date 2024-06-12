@@ -1,5 +1,5 @@
 # interfaces-iphone
-Desafio da formação Developer Java da Dio, cujo objetivo é criar as classes que compoe o iphone, interpretando o vídeo de lançamento do iphone de 2007.
+Desafio da formação Developer Java da Dio, cujo objetivo é criar as classes e interfaces que compõe o iphone, interpretando o vídeo de lançamento do iphone de 2007.
 
 ### Diagrama UML (Iphone 2007)
 ```mermaid
